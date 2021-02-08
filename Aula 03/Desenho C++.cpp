@@ -1,41 +1,63 @@
 #include <stdio.h>
 #include <stdlib.h>
 int mais (){
+	
 	printf("\n**************************************************************");
 	printf("n***************************************************************");
-	printf("\n***xxxxxxxxxxxxxxxxxxxxx       xxxxxxxxxxxxxxxxxxxx                      xxxxxxxx                   xxxxxxxxxxxxxxxxxxxxxxx                                    "):
-	printf("\n** xxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxxxx                     xxxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxx                        *****");
-	printf("\n***xxxxxxxxxxxxxxxxxxxxxxx     xxx                                     xxx      xxx                 xxx            xxxxxxxxxx                                **");
-	printf("\n***xxxx           xxxxxxxxx    xxx                                    xxx        xxx                xxx              xxxxxxxxx                               **");
-	printf("\n***xxxx           xxxxxxxxxx   xxx                                   xxx          xxx               xxx                xxxxxxx                        **");
-	printf("\n***xxxx            xxxxxxxxx   xxx                                  xxx            xxx              xxx                 xxxxxx                              **");
-	printf("\n***xxxx             xxxxxxxx   xxx                                 xxx              xxx             xxx                  xxxxx                             **");
-	printf("\n***xxxx             xxxxxxxx   xxxxxxxxxxxxxx                     xxx                xxx            xxx                   xxxx                         **");
-	printf("\n***xxxx             xxxxxxxx   xxxxxxxxxxxxxx                    xxx                  xxx           xxx                   xxxx                              **");
-	printf("\n***xxxx             xxxxxxxx   xxx                              xxx                    xxx          xxx                   xxxx                              **");
-	printf("\n***xxxx             xxxxxxxx   xxx                             xxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxx                   xxxx                                  **");
-	printf("\n***xxxx            xxxxxxxx    xxx                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        xxx                   xxxx                             **");
-    printf("\n***xxxx            xxxxxxxx    xxx                           xxx                          xxx       xxx                  xxxxx                                      "
-	printf("\n***xxxx           xxxxxxxx     xxx                          xxx                            xxx      xxx                 xxxxx
-	printf("\n***xxxx          xxxxxxxx      xxx                         xxx                              xxx     xxx                xxxxxx
-	printf("\n***xxxx         xxxxxxxx       xxx                        xxx                                xxx    xxx               xxxxxx
-	printf("\n***xxxx        xxxxxxxx        xxxxxxxxxxxxxxxxxx        xxx                                  xxx   xxxx           xxxxxxxx 
-	printf("\n***xxxx       xxxxxxxx         xxxxxxxxxxxxxxxxxx       xxx                                    xxx  xxxxxxxxxxxxxxxxxxxxxx
-	printf("\n***xxxxxxxxxxxxxx                                                                               xxxxxxxxxxxxxxxxxxxxx  
-	printf("\n***xxxxxxxxxxxxxxxxx                                                                                    
-	printf("\n***xxxx********
-	printf("\n***xxx********
-	printf("\n***xxx********   
-	printf("\n***xxx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	printf("\n***xx********
-	
+	printf("\n***xxxxxxxxxxxxxxxxxxxxxxx     xxxxxxxxxxxxxxxxxxxx                      xxxxxxxx                   xxxxxxxxxxxxxxxxxxxxxxx                  	 **");
+	printf("\n** xxxxxxxxxxxxxxxxxxxxxxxx    xxxxxxxxxxxxxxxxxxxx                     xxxxxxxxxx                  xxxxxxxxxxxxxxxxxxxxxxxx                   **");
+	printf("\n***xxx            xxxxxxxxxx   xxx                                     xxx      xxx                 xxx            xxxxxxxxxx                  **");
+	printf("\n***xxx              xxxxxxxxx  xxx                                    xxx        xxx                xxx              xxxxxxxxx                 **");
+	printf("\n***xxx                xxxxxxx  xxx                                   xxx          xxx               xxx                xxxxxxx                 **");
+	printf("\n***xxx                 xxxxxx  xxx                                  xxx            xxx              xxx                 xxxxxx                 **");
+	printf("\n***xxx                  xxxxx  xxx                                 xxx              xxx             xxx                  xxxxx                 **");
+	printf("\n***xxx                   xxxx  xxxxxxxxxxxxxx                     xxx                xxx            xxx                   xxxx           	 	 **");
+	printf("\n***xxx                   xxxx  xxxxxxxxxxxxxx                    xxx                  xxx           xxx                   xxxx            	 **");
+	printf("\n***xxx                   xxxx  xxx                              xxx                    xxx          xxx                   xxxx             	 **");
+	printf("\n***xxx                   xxxx  xxx                             xxxxxxxxxxxxxxxxxxxxxxxxxxxx         xxx                   xxxx              	 **");
+	printf("\n***xxx                   xxxx  xxx                            xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        xxx                   xxxx                 **");
+    printf("\n***xxx                  xxxxx  xxx                           xxx                          xxx       xxx                  xxxxx                 **"); 
+	printf("\n***xxx                 xxxxxx  xxx                          xxx                            xxx      xxx                 xxxxxx                 **");
+	printf("\n***xxx                xxxxxx   xxx                         xxx                              xxx     xxx                xxxxxx                  **");
+	printf("\n***xxx               xxxxxx    xxx                        xxx                                xxx    xxx               xxxxxx                   **");
+	printf("\n***xxx            xxxxxxxx     xxx                       xxx                                  xxx   xxx            xxxxxxxx                    **"); 
+	printf("\n***xxxxxxxxxxxxxxxxxxxxxx      xxxxxxxxxxxxxxxxxx       xxx                                    xxx  xxxxxxxxxxxxxxxxxxxxxx                     **");
+	printf("\n***xxxxxxxxxxxxxxxxxxxxx       xxxxxxxxxxxxxxxxxx      xxx                                      xxx xxxxxxxxxxxxxxxxxxxxx                      **");
+	printf("\n*******************                        xxxxxxxxxxxxxxxxxxxx             xxx               xxx                                        		 **");
+	printf("\n***                                         xxxxxxxxxxxxxxxxxxxxx            xxx             xxx                                        		 **");
+	printf("\n***                                         xxx             xxxxxx            xxx           xxx                                           	 **");
+  	printf("\n***                                         xxx             xxxxxxx            xxx         xxx                                              	 **");
+	printf("\n***                                         xxx             xxxxxxx             xxx       xxx                                                  **");
+	printf("\n***                                         xxx             xxxxxx               xxx     xxx                                               	 **");
+	printf("\n***                                         xxx             xxxxx                 xxx   xxx                                              		 **");
+	printf("\n***                                         xxxxxxxxxxxxxxxxxxxx                   xxx xxx                  									 **");
+	printf("\n***                                         xxxxxxxxxxxxxxxxxxxxxx                   xxx                         							     **");                          
+	printf("\n***                                         xxx                xxxxxxx               xxx                										 **");
+	printf("\n***                                         xxx                xxxxxxxx              xxx                   									 **");
+	printf("\n***                                         xxx                xxxxxxxxx             xxx                 										 **");
+	printf("\n***                                         xxx                xxxxxxxxx             xxx                    								     **");
+	printf("\n***                                         xxx                xxxxcxxxx             xxx                             						  	 **");   
+	printf("\n***                                         xxx                xxxxxxxxx             xxx                               						 **");
+	printf("\n***                                         xxxxxxxxxxxxxxxxxxxxxxxxxxx              xxx                                xxxxxxxxxx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx                  **");
+	printf("\n***                                          xxxxxxxxxxxxxxxxxxxxxxxxxxx             xxx                                xx      xx    xxxxxxxxxxxxxxxxxxxxxxxxxxxxx  xxxxxxxxxxxxxxxxxxxxxxxxx                  **");
+    printf("\n***xxxxxxxxxxxxxxxxxxxxxxx                         xxxxxxxx             xxx               xxx  xxx                      xxxxxxxxxx                 xxx               xxx                                        **");
+    printf("\n***xxxxxxxxxxxxxxxxxxxxxxxx                       xxxxxxxxxx             xxx             xxx   xxx                         xxx                     xxx               xxx                                        **");
+    printf("\n***xxx            xxxxxxxxxx                     xxx      xxx             xxx           xxx    xxx                         xxx                     xxx               xxx                                        **"); 
+    printf("\n***xxx              xxxxxxxxx                   xxx        xxx             xxx         xxx     xxx                         xxx                     xxx               xxx                                        **");
+    printf("\n***xxx                xxxxxxx                  xxx          xxx             xxx       xxx      xxx                         xxx                     xxx               xxx                                        **");
+    printf("\n***xxx                 xxxxxx                 xxx            xxx             xxx     xxx       xxx                         xxx                     xxx               xxx                                        **");
+    printf("\n***xxx                  xxxxx                xxx              xxx             xxx   xxx        xxx                         xxx                     xxx               xxxxxxxxxxxxxxxxxxx                        **");
+	printf("\n***xxx                   xxxx               xxx                xxx             xxx xxx         xxx                         xxx                     xxx               xxxxxxxxxxxxxxxxxxx                        **");
+	printf("\n***xxx                   xxxx              xxx                  xxx              xxx           xxx                         xxx                     xxx               xxx                                        **");
+	printf("\n***xxx                   xxxx             xxx                    xxx             xxx           xxx                         xxx                     xxx               xxx                                        **");
+	printf("\n***xxx                   xxxx            xxxxxxxxxxxxxxxxxxxxxxxxxxxx            xxx           xxx                         xxx                     xxx               xxx                                        **");
+	printf("\n***xxx                   xxxx           xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           xxx           xxx                         xxx                     xxx               xxx                                        **");
+	printf("\n***xxx                  xxxxx          xxx                          xxx          xxx           xxx                         xxx                     xxx               xxx                                        **");
+    printf("\n***xxx                 xxxxxx         xxx                            xxx         xxx           xxx                         xxx                     xxx               xxx                                        **");
+    printf("\n***xxx                xxxxxx   	   xxx                              xxx 	   xxx			 xxx						 xxx				     xxx               xxx                                        **");
+	printf("\n***xxx               xxxxxx   	  xxx                                xxx	   xxx			 xxx						 xxx				     xxx               xxx                                        **");
+    printf("\n***xxx             xxxxxxx   		 xxx                                  xxx 	   xxx			 xxx						 xxx		             xxx               xxx                                        **");
+    printf("\n***xxxxxxxxxxxxxxxxxxxxxx   		xxx                                    xxx	   xxx			 xxxxxxxxxxxxxxxxxxxxxxxxxx	 xxx					 xxx			   xxxxxxxxxxxxxxxxxxxxxxxxx                  **");
+    printf("\n***xxxxxxxxxxxxxxxxxxxxx   	   xxx                                      xxx    xxx  		 xxxxxxxxxxxxxxxxxxxxxxxxxx	 xxx				     xxx			   xxxxxxxxxxxxxxxxxxxxxxxxx	              **");
+    system("pause");
 }
